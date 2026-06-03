@@ -40,11 +40,11 @@ projeto-fastapi/
 
 | DIA  | CONTEUDO                                                | REPONSAVEL |
 | ---- | ------------------------------------------------------- | ---------- |
-| 08/6 | Conceitos(Rest Api, framework, etc)                    | Samuel    |
-| 10/6 | Apresentar sobre o Fastapi (docs)                       | Pedro.D    |
-| 12/6 | CRUD(Arquitura do projeto, modelagem no Workbench, etc) | Cris       |
-| 15/6 | Conexção Python+Banco                                 | Pedro.S    |
-| 17/6 | Services e Schema                                       | Lucas      |
-| 19/6 | JWT, HASH                                               | Fernando   |
-| 22/6 | Endpoints, CORS                                         | Coelho     |
-| 24/6 | Docker e Deploy                                         | Nunes      |
+| 24/7 | Conceitos(Rest Api, framework, etc)                    | Samuel    |
+| 27/7 | Apresentar sobre o Fastapi (docs)                       | Pedro.D    |
+| 29/7 | CRUD(Arquitura do projeto, modelagem no Workbench, etc) | Cris       |
+| 31/7 | Conexção Python+Banco                                 | Pedro.S    |
+| 03/8 | Services e Schema                                       | Lucas      |
+| 05/8 | JWT, HASH                                               | Fernando   |
+| 07/8 | Endpoints, CORS                                         | Coelho     |
+| 10/8 | Docker e Deploy                                         | Nunes      |
